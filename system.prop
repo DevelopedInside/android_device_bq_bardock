@@ -1,0 +1,9 @@
+#
+# system.prop for bardock
+#
+ro.build.device.name=Aquaris_X
+ro.version.qaep=LA.UM.5.6.r1-06200-89xx.0
+
+# DevelopedInside Stuff (OTA-Updater)
+ro.devinside.updater.device=bardock
+ro.devinside.updater.maintainer=null
